@@ -2,3 +2,5 @@
 
 2. A good leader is a good listener. Never break in between when your team members are putting up their point. You are at risk of missing out an interesting idea and also one step forward in killing an innovation and leader from bein born in your team. 
 But, never be in situation where you don't have your opinions and suggestions. Your team is looking up to you as a leader with opinion and vision.
+
+3. Lead from the front, be hands-on. High achievers love to work for another high achiever. You cannot influence and prepare an army of leaders with just a great looking Excel sheet! Be like Elon Musk :-)
