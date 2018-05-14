@@ -1,5 +1,6 @@
-# My Kindle Notes For: Deep Work: Rules for Focused Success in a Distracted World - Cal Newport
-
+# Deep Work: Rules for Focused Success in a Distracted World
+## - Cal Newport
+## My Notes
 1. Deep Work: Professional activities performed in a state of distraction-free concentration that push your cognitive 
 capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate. 
 2. Deep work is necessary to wring every last drop of value out of your current intellectual 
